@@ -1,9 +1,9 @@
-const Produk : 'Buku';
-const harga : 10000;
-let jumlahBeli : 2;
+const Produk = 'Buku';
+const harga = 10000;
+let jumlahBeli = 2;
 
 console.log(Produk);
 console.log(harga);
-console.log(Beli);
+console.log(jumlahBeli);
 
-console.log(Total : harga + jumlahBeliBeli);
+console.log("Total :", harga * jumlahBeli);

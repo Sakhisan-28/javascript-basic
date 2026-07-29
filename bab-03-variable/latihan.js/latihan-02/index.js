@@ -1,5 +1,7 @@
-const nilai : 'saldo';
-let saldoAwal : 100000;
-let saldoAkhir : 50000;
+const nilai = 'saldo';
+let saldoAwal = 100000;
+let saldoAkhir =  saldoAwal + 50000;
 
-console.log(nilai : saldoAwal + saldoAkhir);
+
+console.log("saldoAwal:", saldoAwal);
+console.log("saldoAkhir :", saldoAkhir);
