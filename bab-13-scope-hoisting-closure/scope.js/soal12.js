@@ -20,3 +20,6 @@ penghitung();
 /* jawaban :
 
 1. Didalam function 
+2. karna 
+3. Function yang dikembalikan oleh buatPenghitung() dan disimpan dalam variabel penghitung.
+*/
