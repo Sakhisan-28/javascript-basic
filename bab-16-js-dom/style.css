@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+  background: #f2f4f7;
+}
+
+.dashboard {
+  max-width: 700px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+section {
+  margin-bottom: 25px;
+}
+
+.data-santri,
+.aktivitas {
+  padding: 20px;
+  border-radius: 10px;
+  background: #f8f9fa;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+p {
+  margin: 10px 0;
+}
+
+#status {
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 25px;
+}
+
+li {
+  margin-bottom: 10px;
+}
